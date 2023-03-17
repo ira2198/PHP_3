@@ -1,3 +1,5 @@
 /vendor/
-/testl/*
+/testl/factory.php
+/testl/test.php
+
 
