@@ -1,0 +1,18 @@
+{
+    "name": "php/levelthree",
+    "autoload": {
+        "psr-4": {
+            "PHP\\LevelThree\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ember",
+            "email": "evebay@mail.ru"
+        }
+    ],
+    "require": {
+        "fakerphp/faker": "^1.20",
+        "roave/security-advisories": "dev-latest"
+    }
+}
